@@ -6,7 +6,7 @@ import java.math.BigInteger;
  *
  * @author jose
  */
-public class ComprobarCaracteres  {
+public class ComprobarCaracteres   {
 
     public ComprobarCaracteres() {
     }
