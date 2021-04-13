@@ -4,7 +4,7 @@ import java.math.BigInteger;
 
 /**
  *
- * @author jose1
+ * @author jose
  */
 public class ComprobarCaracteres  {
 
